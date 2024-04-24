@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="CONTRASAVE" type="id">contrasave</item>
+    <item name="textView" type="id">contrasave</item>
+</resources>

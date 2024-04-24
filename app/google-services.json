@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142774892819",
+    "project_id": "contrasave-6d961",
+    "storage_bucket": "contrasave-6d961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142774892819:android:0ecb7448b1bce45e3602e6",
+        "android_client_info": {
+          "package_name": "com.example.contrasave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yalZyNFS6FhpPjNecOi424P8xM9ohSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
